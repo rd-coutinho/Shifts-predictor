@@ -1,5 +1,5 @@
 # Shifts-predictor
-Repository for a project to build a deep learning algorithm to predict shifts in a hospital. 
+Repository for a project about building a deep learning algorithm to predict shifts in a hospital. 
 
 Shift scheduling in hospitals is a time consuming process. Every month the teams (including doctors and nurses) have to look for better shifts according to their preferences in order to make an optimal shift planning. This projects aims to develop a model to predict shifts using data from an hospital in Brazil in order to help the hospital teams to optimize their shift choosing.
 
